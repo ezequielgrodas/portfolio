@@ -1,0 +1,16 @@
+.container-proyectos{
+    
+    margin-top: 3em;
+    padding-top: 2em;
+    text-align: center;
+}
+
+.container-proyectos h2{
+    color: #ccc;
+}
+.container-proyectos img{
+    height: 150px;
+    width: auto;
+    background-color: #ccc;
+    border-radius: 5px;
+}

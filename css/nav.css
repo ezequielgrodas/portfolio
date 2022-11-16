@@ -1,0 +1,49 @@
+header{
+    width: 100%;
+    background-color: #00171F;
+    padding: 1em 0;
+    position: fixed;
+    top: 0;
+    z-index: 1001;
+    
+    
+    
+    
+}
+
+header nav ul{
+    color: white;
+    list-style: none;
+    margin: 0;
+    padding-right: 1em;
+    text-align: right;
+    margin-right: 1em;
+    
+    
+    
+}
+header nav ul li{
+    display: inline-block;
+    width: 16.3%;
+    transition:  0.4s ease-in-out;
+    
+}
+header nav ul li a{
+    color: white;
+    text-decoration: none;
+}
+
+.holder{
+    width: 100%;
+    margin: 0 auto;
+    height: fit-content;
+}
+
+.minombre{
+    text-align: left;
+    margin-top: 0px;
+    position: absolute;
+    color: white;
+    padding-left: 1em;
+}
+

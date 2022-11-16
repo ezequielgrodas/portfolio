@@ -1,0 +1,56 @@
+.container-about{
+    
+    
+    padding-top: 2em;
+    
+    text-align: center;
+    
+}
+.acercademi{
+    display: inline-flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 50%;
+}
+
+.acercademi h2, p, h3, h4{
+    color: #ccc;
+}
+
+.acercademi a{
+    text-decoration: none;
+    color: #ccc;
+    font-weight: bold;
+}
+.skills img{
+    margin-left: 5px;
+    margin-right: 5px;
+    color: #ccc;
+    height: 50px;
+    width: auto;
+
+}
+
+
+.certificaciones{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.container-certificado{
+    width: 400px;
+    height: 400px;
+    
+    
+    
+}
+
+.preview-cert img{
+    height: auto;
+    width: 400px;
+    border-radius: 5px;
+}
+.preview-cert a{
+    text-decoration: none;
+    color: #ccc;
+}
